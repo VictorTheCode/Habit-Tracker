@@ -7,4 +7,4 @@
 3. Then click the checkbox if a habit is completed
 4. Click on the `Clear Data` if you want to clear all completed habit 
 
-Please give it a star if you like it 
+Please give it a 🌟 if you like it 
